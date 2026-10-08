@@ -1,4 +1,4 @@
-[![Header](https://github.com/krivozavr/krivozavr/blob/main/assets/IMG_2008.PNG)]
+![Header](assets/IMG_2008.PNG)
 
 ### I'M A BEGGINER QA ENGINEER
 
