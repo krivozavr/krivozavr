@@ -10,4 +10,6 @@
 ![Devtools](https://img.shields.io/badge/Devtools-black?style=for-the-badge&logo=Devtools&logoColor=yellow)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=SQL&logoColor=white)
 
-Follow me
+### CONTACTS
+[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-black?style=for-the-badge&logo=TELEGRAM&logoColor=BLUE)](HTTPS:/t.me/krivozavr)
+[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=INSTAGRAM&logoColor=B4068E)](HTTPS:/instagram.com/krivozavr)
